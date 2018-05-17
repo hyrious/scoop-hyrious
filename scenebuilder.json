@@ -1,0 +1,10 @@
+{
+  "homepage": "http://gluonhq.com/products/scene-builder",
+  "description": "Drag & Drop, Rapid Application Development.",
+  "license": "BSD",
+  "version": "8.4.1",
+  "url": "http://download2.gluonhq.com/scenebuilder/8.4.1/scenebuilder-8.4.1-all.jar#/scenebuilder.jar",
+  "hash": "8e43e533c46b4ac434814aef65869780734dabe206ecf697d7bbc50d30fe543b",
+  "pre_install": "\"@java -jar \"\"$dir\\scenebuilder.jar\"\" %*\" | out-file -en oem \"$dir\\scenebuilder.cmd\"",
+  "bin": "scenebuilder.cmd"
+}
