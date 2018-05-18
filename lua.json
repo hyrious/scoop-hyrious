@@ -5,5 +5,5 @@
     "extract_dir": "lua",
     "hash": "6847b8a2f00f79218a7708d3874e14d031695d3c1a45a868fe43ce03a4dc39d6",
     "env_add_path": "bin",
-    "notes": "Install LuaRocks via 'scoop install LuaRocks'!"
+    "notes": "Install LuaRocks https://github.com/hyrious/LuaForWindows#luarocks"
 }
