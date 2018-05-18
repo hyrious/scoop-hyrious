@@ -1,0 +1,8 @@
+{
+    "homepage": "https://www.lua.org/",
+    "version": "5.3.4",
+    "url": "https://github.com/hyrious/LuaForWindows/releases/download/5.3.4/lua-5.3.4.zip",
+    "hash": "6847b8a2f00f79218a7708d3874e14d031695d3c1a45a868fe43ce03a4dc39d6",
+    "env_add_path": "bin",
+    "notes": "Install LuaRocks via 'scoop install LuaRocks'!"
+}
