@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/lexxmark/winflexbison",
+    "description": "Windows port the Flex (the fast lexical analyser) and Bison (GNU parser generator)",
+    "version": "2.5.14",
+    "url": "https://sourceforge.net/projects/winflexbison/files/win_flex_bison3-latest.zip",
+    "hash": "sha1:e15a1b8780a36ffda9ef70c4f09283867b32a12b",
+    "bin": [
+        [
+            "win_bison.exe",
+            "bison"
+        ],
+        [
+            "win_flex.exe",
+            "flex"
+        ]
+    ]
+}
