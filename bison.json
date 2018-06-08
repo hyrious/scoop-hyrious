@@ -3,7 +3,7 @@
     "description": "Windows port the Flex (the fast lexical analyser) and Bison (GNU parser generator)",
     "version": "2.4.12",
     "url": "https://sourceforge.net/projects/winflexbison/files/win_flex_bison-latest.zip/download",
-    "hash": "sha1:dfe4253598579eaeecb12da25316ca95f8f964b4",
+    "hash": "sha1:76c0d4aaa54d35bfb80c1f6b5d8d5666bbf69d6c",
     "bin": [
         [
             "win_bison.exe",
