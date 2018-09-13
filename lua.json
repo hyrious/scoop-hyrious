@@ -1,6 +1,6 @@
 {
     "homepage": "https://www.lua.org/",
-    "version": "5.3.4",
+    "version": "5.3.5",
     "license": "MIT",
     "url": "https://github.com/hyrious/LuaForWindows/releases/download/5.3.5/lua-5.3.5.zip",
     "extract_dir": "lua",
