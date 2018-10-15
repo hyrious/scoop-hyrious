@@ -4,5 +4,6 @@
     "license": "MIT",
     "url": "http://luarocks.github.io/luarocks/releases/luarocks-3.0.3-windows-32.zip",
     "extract_dir": "luarocks-3.0.3-windows-32",
+    "hash": "b0db8d66580726063bbb340ba2b6c974a037d6dec229fefc9f8ebbb50cd58fdf",
     "bin": ["luarocks.exe", "luarocks-admin.exe"]
 }
