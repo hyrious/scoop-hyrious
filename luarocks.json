@@ -1,0 +1,8 @@
+{
+    "homepage": "https://luarocks.github.io",
+    "version": "3.0.3",
+    "license": "MIT",
+    "url": "http://luarocks.github.io/luarocks/releases/luarocks-3.0.3-windows-32.zip",
+    "extract_dir": "luarocks-3.0.3-windows-32",
+    "bin": ["luarocks.exe", "luarocks-admin.exe"]
+}
