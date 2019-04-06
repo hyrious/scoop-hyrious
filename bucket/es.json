@@ -2,13 +2,13 @@
     "homepage": "https://www.voidtools.com/",
     "description": "Locate files and folders by name instantly.",
     "license": "Freeware",
-    "version": "1.1.0.9",
-    "url": "https://www.voidtools.com/ES-1.1.0.9.zip",
-    "hash": "aa50ca7d07263ee66424360c8946340e8824782132738e7d65bdb8d5df9746b6",
+    "version": "1.1.0.10",
+    "url": "https://www.voidtools.com/ES-1.1.0.10.zip",
+    "hash": "a28e70d784ee570d0648505f58fa041a741fe3568038596a97afbc797225f561",
     "bin": "es.exe",
     "checkver": {
         "url": "https://www.voidtools.com/downloads/",
-        "re": "<a href=\\\"\\\/ES-([\\d.]+)\\.zip\\\">"
+        "re": "<a href=\\\"\\/ES-([\\d.]+)\\.zip\\\">"
     },
     "autoupdate": {
         "url": "https://www.voidtools.com/ES-$version.zip",

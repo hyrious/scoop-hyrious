@@ -6,5 +6,11 @@
     "extract_dir": "lua",
     "hash": "3940cdf35a0827dfb28b7fc10460e3f81c54f951f794f5d0840be67c08479ae1",
     "env_add_path": "bin",
-    "notes": "Install LuaRocks https://github.com/hyrious/LuaForWindows#luarocks"
+    "notes": "Install LuaRocks https://github.com/hyrious/LuaForWindows#luarocks",
+    "checkver": {
+        "github": "https://github.com/hyrious/LuaForWindows"
+    },
+    "autoupdate": {
+        "github": "https://github.com/hyrious/LuaForWindows"
+    }
 }
