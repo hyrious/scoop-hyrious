@@ -1,10 +1,10 @@
 {
     "homepage": "https://luarocks.org",
-    "version": "3.0.4",
+    "version": "3.1.3",
     "license": "MIT",
-    "url": "https://luarocks.github.io/luarocks/releases/luarocks-3.0.4-windows-32.zip",
-    "extract_dir": "luarocks-3.0.4-windows-32",
-    "hash": "41841c60e318b75f3ecbfc150d0ffea538da6a58bf2d5d0f44144c84ed35c24e",
+    "url": "https://luarocks.github.io/luarocks/releases/luarocks-3.1.3-windows-32.zip",
+    "extract_dir": "luarocks-3.1.3-windows-32",
+    "hash": "2ef937a6b9a6f27f313e8ef189a1880080dff4faa8c079c957623025890664d1",
     "bin": [
         "luarocks.exe",
         "luarocks-admin.exe"
