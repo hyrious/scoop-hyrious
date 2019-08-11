@@ -5,6 +5,7 @@
     "version": "0.4.6",
     "url": "http://famitracker.com/files/FamiTracker-v0.4.6.zip",
     "bin": "FamiTracker.exe",
+    "hash": "edc24ce14a1fc402ddb87cacdca497ea25bb648286b879edfc93a4e9d57ad5dc",
     "checkver": {
         "url": "http://famitracker.com/downloads.php",
         "re": "<a href=\\\"files/FamiTracker-v([\\d.]+)\\.zip\\\">"
