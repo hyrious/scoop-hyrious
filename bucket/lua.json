@@ -1,16 +1,16 @@
 {
     "homepage": "https://www.lua.org/",
-    "version": "5.3.5",
+    "version": "5.4.0",
     "license": "MIT",
-    "url": "https://github.com/hyrious/LuaForWindows/releases/download/5.3.5/lua-5.3.5.zip",
+    "url": "https://github.com/hyrious/LuaForWindows/releases/download/5.4.0/lua-5.4.0.zip",
     "extract_dir": "lua",
-    "hash": "3940cdf35a0827dfb28b7fc10460e3f81c54f951f794f5d0840be67c08479ae1",
+    "hash": "d02969ea27a06de39523e0ea22042e2af34d0d025734fc7999101afa4df61d98",
     "env_add_path": "bin",
     "notes": "Install LuaRocks https://github.com/hyrious/LuaForWindows#luarocks",
     "checkver": {
         "github": "https://github.com/hyrious/LuaForWindows"
     },
     "autoupdate": {
-        "github": "https://github.com/hyrious/LuaForWindows"
+        "url": "https://github.com/hyrious/LuaForWindows/releases/download/$version/lua-$version.zip"
     }
 }
